@@ -1,0 +1,6 @@
+0. open terminal in jupyter lab
+1. cargo install evcxr_jupyter
+2. evcxr_jupyter note book
+    if it doesnt work
+    -> terminal -> evcxr_jupyter
+3. check initial page and let's see if rust is available
